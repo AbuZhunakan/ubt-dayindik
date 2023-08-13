@@ -1,0 +1,61 @@
+body {
+    background: url("https://minfin.com.ua/img/2020/57680346/a1fdd538bfb1deec922a09860514cfcd.jpeg") center;
+    background-size: cover;
+    display: block;
+}
+/* div*/
+.qer {
+    display: flex;
+    justify-content: stretch;
+    top: 2px;
+    width: 1000px;
+    flex-wrap: nowrap;
+    border: 2px solid blue;
+    background-color: rgb(255, 255, 255);
+    max-height: 50px;
+    justify-content: space-around;
+}
+a {
+    color: rgb(0, 26, 255);
+    font-weight: 1000;
+    margin-left: 10px;
+    border: 2px solid rgba(12, 4, 255, 0.316);
+    text-align: center;
+}
+/* div forma */
+.req {
+    background-color: rgba(21, 42, 107, 0.818);
+    height: 260px;
+    width: 600px;
+    margin: 130px 150px 150px 150px;
+}
+/*жыберу кнопкасы*/
+.ter {
+    height:30px;
+    width: 100px;
+    margin-left: 200px;
+    margin-top: 50px;
+    background-color: rgb(255, 255, 255);
+}
+/* введите имя */
+.yi {
+    height:50px;
+    width: 200px;
+    margin-left: 40px;
+    background-color: rgb(4, 6, 31);
+    color: rgb(243, 249, 255);
+}
+/* forma text */
+.mbn {
+    text-align: center;
+    background-color: rgb(11, 23, 66);
+    color: beige;
+}
+/* forma 7 synyp */
+.ppy {
+    height:50px;
+    width: 150px;
+    margin-left: 40px;
+    background-color: rgb(4, 6, 31);
+    color: rgb(208, 233, 255);
+}
